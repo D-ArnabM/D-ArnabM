@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/D-ArnabM/D-ArnabM/assets/83360173/0a80163b-83bf-40b1-8e6a-9f64d71ef518)
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<h3 align="center">Currently Working as Analyst A4 in Capgemini</h3>
+<h3 align="center">Currently Working as Analyst A4 at Capgemini</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d-arnabm&label=Profile%20views&color=0e75b6&style=flat" alt="d-arnabm" /> </p>
 
