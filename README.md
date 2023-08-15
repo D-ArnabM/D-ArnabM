@@ -1,6 +1,3 @@
-<p align="center"><img src="https://github.com/D-ArnabM/D-ArnabM/assets/83360173/fb5ca857-2c18-45b8-91c9-a464a502445e" alt="gif" height="160" width="800" /></p>
-
-
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <h3 align="center">Currently Working as Analyst A4 at Capgemini</h3>
